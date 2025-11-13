@@ -1,6 +1,8 @@
 # Fork of Pumpfun smart contract
 
-Solana token launch platform for forking pump.fun logic & migrating meteora. 
+A developer-friendly toolkit to fork Pump.fun logic and connect to Meteora’s liquidity layer.
+Solana DApp for launching tokens using Pump.fun architecture and Meteora liquidity routing.
+A modular Solana token launchpad bridging Pump.fun and Meteora protocols
 
 ## Contact
 - [Telegram](https://t.me/idioRusty)

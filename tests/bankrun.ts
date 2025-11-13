@@ -281,6 +281,7 @@ describe("pump fun", () => {
   
     await processTransaction(umi, txBuilder);
   
+
     const wl = await wlSdk.fetchWlData();
     console.log("whitelist data ===>>>", wl);
   });
@@ -464,3 +465,6 @@ describe("pump fun", () => {
   //   });
   // });
 });
+
+
+
