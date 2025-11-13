@@ -21,7 +21,6 @@ When the bonding curve accumulates 85 SOL total remaining token migrated to mete
 
 - ### Dynamic Fee Structure :
 
-Fees are calculated using a piecewise linear function based on user participation slots:
-All fees are directed to the protocol's multisig wallet
+Incentives follow a piecewise linear curve based on the number of active user slots, with all collected fees routed to the protocol’s multisig wallet
 
 ### Please don't forget give ✨Star✨ and 🎞Fork🎞. 😊
